@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freeesh.Android", "Freeesh.Android\Freeesh.Android.csproj", "{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freeesh.Core", "Freeesh.Core\Freeesh.Core.csproj", "{A93E7F92-FBF8-4240-B9AA-E6D9299B1038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDC9CFC-8C1E-4B2F-8304-FA99C3C62861}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A93E7F92-FBF8-4240-B9AA-E6D9299B1038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93E7F92-FBF8-4240-B9AA-E6D9299B1038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93E7F92-FBF8-4240-B9AA-E6D9299B1038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93E7F92-FBF8-4240-B9AA-E6D9299B1038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
